@@ -1,3 +1,6 @@
+
+# this configuration will create a simple EC2 instance in AWS
+
 provider "aws" {
   region = "us-east-1"
 }
